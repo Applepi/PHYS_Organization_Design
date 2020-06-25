@@ -19,6 +19,7 @@ User interface: [Panel](https://github.com/holoviz/panel)
 These should be use for projects moving forward.
 
 https://www.python.org/dev/peps/pep-0008/
+
 https://www.python.org/dev/peps/pep-0257/
 
 |   Manufacturer:	|   Model (Click for current working repo):	|   Communications Protocol (Click for manual):	|   Status:	|  Priority (According to Trace): 	|
