@@ -4,7 +4,7 @@ For these instruments I plan on trying to implement them using [pyMeasure](https
 
 Other Libraries that should be investigated for ease of implementation:
 
-HoloViz; netCDF/xarray/Dask
+[HoloViz](https://github.com/holoviz/holoviz); [netCDF](https://unidata.github.io/netcdf4-python/netCDF4/index.html)/[xarray](http://xarray.pydata.org/en/stable/)/[Dask](https://github.com/dask/dask)
 
 I'm not sure what the priority of integrating this implementation is? I think getting the instruments working with a python interface is likely the priority and any graphing features should be handled as needed.
 
