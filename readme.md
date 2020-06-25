@@ -1,5 +1,13 @@
 This is a repository of Neogi Lab Equipment and the status of the work on them
 
+For these instruments I plan on trying to implement them using [pyMeasure](https://github.com/ralph-group/pymeasure) this should allow an object oriented approach to these instruments that will allow for a more streamlined coding experience. Documentation can be found [here](https://pymeasure.readthedocs.io/en/latest/).
+
+Other Libraries that should be investigated for ease of implementation:
+
+HoloViz; netCDF/xarray/Dask
+
+I'm not sure what the priority of integrating this implementation is? I think getting the instruments working with a python interface is likely the priority and any graphing features should be handled as needed.
+
 
 
 |   Manufacturer:	|   Model (Click for current working repo):	|   Communications Protocol (Click for manual):	|   Status:	|  Priority (According to Trace): 	|
