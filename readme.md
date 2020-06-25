@@ -12,7 +12,12 @@ I'm not sure what the priority of integrating this implementation is? I think ge
 Data Acquisition: [pyMeasure](https://github.com/ralph-group/pymeasure)
 User interface: [Panel](https://github.com/holoviz/panel)
 
+--Style Guides--
 
+These should be use for projects moving forward.
+
+https://www.python.org/dev/peps/pep-0008/
+https://www.python.org/dev/peps/pep-0257/
 
 |   Manufacturer:	|   Model (Click for current working repo):	|   Communications Protocol (Click for manual):	|   Status:	|  Priority (According to Trace): 	|
 |---	|---	|---	|---	|---	|
