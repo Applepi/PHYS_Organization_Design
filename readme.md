@@ -22,6 +22,10 @@ https://www.python.org/dev/peps/pep-0008/
 
 https://www.python.org/dev/peps/pep-0257/
 
+Good overview of classes
+
+https://python-textbok.readthedocs.io/en/1.0/Classes.html
+
 |   Manufacturer:	|   Model (Click for current working repo):	|   Communications Protocol (Click for manual):	|   Status:	|  Priority (According to Trace): 	|
 |---	|---	|---	|---	|---	|
 |   Spectra-Physics	|   Mai-Tai	|   [RS-232](https://github.com/Applepi/PHYS_Organization_Design/blob/master/manuals/315A%20Rev.%20A%20Mai%20Tai%20WB%20User's%20Manual.pdf)	|   Not started	|   *	|
