@@ -12,8 +12,8 @@
 |   Thorlabs	|   KPZ101	|   USB	|   Not started	|   *	|
 |   Thorlabs	|   KSG101	|   USB	|   Not started	|   *	|
 |   Thorlabs	|   SC-10	|   RS232	|   Not started	|   *****	|
-|   NI	|   BNC-2121	|   PCI	|   ***	|   Not started	|
-|   NI	|   DAQBoard	|   USB	|   **	|   Not started	|
+|   NI	|   BNC-2121	|   PCI	|   Not started	|   *** |	
+|   NI	|   DAQBoard	|   USB	|  Not started 	|   **	|
 |   Arduino	|   UNO + GRBL Board	|   USB to RS-232	|   Not started	|   *	|
 |   Newport	|   ESP300	|   GPIB/RS-232	|   Not started	|   ****	|
 |   Newport	|   1830-C	|   RS-232	|   Not started	|   *	|
