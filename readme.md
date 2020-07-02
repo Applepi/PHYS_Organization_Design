@@ -38,7 +38,7 @@ https://python-textbok.readthedocs.io/en/1.0/Classes.html
 |   Thorlabs	|   SC-10	|   [RS232](https://github.com/Applepi/PHYS_Organization_Design/blob/master/manuals/SC10-Manual.pdf)	|   Not started	|   *****	|
 |   NI	|   BNC-2121	|   [PCI](https://github.com/Applepi/PHYS_Organization_Design/blob/master/manuals/NI_BNC-2121.pdf)	|   Not started	|   *** |	
 |   NI	|   DAQBoard	|   [USB](https://github.com/Applepi/PHYS_Organization_Design/blob/master/manuals/NIDAQ.pdf)	|  Not started 	|   **	|
-|   Arduino	|   [UNO + GRBL Board](https://github.com/Applepi/pymeasure/tree/dev/grbl)	|   [USB to RS-232](https://github.com/Applepi/PHYS_Organization_Design/blob/master/manuals/2.70_arduino_grbl_instructions_2.pdf)	|   Not started	|   *	|
+|   Arduino	|   [UNO + GRBL Board](https://github.com/Applepi/pymeasure/tree/dev/grbl)	|   [USB to RS-232](https://github.com/Applepi/PHYS_Organization_Design/blob/master/manuals/2.70_arduino_grbl_instructions_2.pdf)	|   Started	|   *	|
 |   Newport	|   ESP300	|   [GPIB/RS-232](https://github.com/Applepi/PHYS_Organization_Design/blob/master/manuals/ESP300-User-Manual.pdf)	|   Not started	|   ****	|
 |   Newport	|   1830-C	|   [RS-232](https://github.com/Applepi/PHYS_Organization_Design/blob/master/manuals/1830-C%20Manual.pdf)	|   Not started	|   *	|
 |   Stellarnet	|   BLUE-WAVE (Needs Specifics)	|   [USB](https://github.com/Applepi/PHYS_Organization_Design/blob/master/manuals/StellarNet-BLUE-Wave-SPEC.pdf)	|   Not started	|   *****	|
